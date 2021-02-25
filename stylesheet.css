@@ -1,0 +1,122 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #418bec;
+    color: #fff;
+    height: 50px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 20px;
+    padding: 25px 20px;
+   height: 10px;
+   width: 10px;
+  }
+  
+  .header-list li {
+    float: right;
+    padding: 22px 20px;
+  }
+  
+  .main {
+    /*padding: 100px 80px;*/
+    height: 1000px;
+    background-image: url(https://i.pinimg.com/564x/d6/25/9b/d6259b41c6af05556995cdda9259e7d5.jpg);
+  }
+  .copy-cointainer{
+      padding: 00px 20px;
+  }
+  .copy-container h1 {
+    font-size: 50px;
+    color: white;
+    padding: 00px 300px;
+  }
+  
+  .copy-container h2 {
+    font-size: 33px;
+    color:wheat;
+    padding: 00px 550px;
+  }
+  
+  .copy-container h3{
+    font-size: 25px;
+    color:whitesmoke;
+    padding: 00px 460px;
+  }
+
+  .copy-container h4{
+      font-size: 23px;
+      color:coral;
+      padding: 00px 430px;
+  }
+
+  .img1{
+      height: 380px;
+      width: 300px;
+      padding: 00px 480px;
+  }
+  .copy-container span {
+    color: #ff4a4a;
+  }
+  
+  
+  
+  .contact-form {
+    padding: 100px 15px;
+    background-image: url(https://i.pinimg.com/564x/9a/42/10/9a42108ce988d33417a4d00db30cd908.jpg);
+    font-size:20;
+    color:rgb(255, 255, 255);
+  }
+  
+  /* Add CSS for <input> and <textarea> tags */
+  input, textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #c7882a;
+    color:brown;
+  }
+  /* Add CSS for contact-submit */
+  .contact-submit{
+  background-color:teal;
+  color:#889eab;
+  }
+  
+  .footer {
+    background-image: url(https://i.pinimg.com/474x/3c/30/b7/3c30b7e3a4583d51c8debdb44d38f555.jpg);
+    color: whitesmoke;
+    height: 120px;
+    padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+  }
+   
+  .profile-link{
+      padding: 55px 00px;
+      float: left;
+      font-size: 30px;
+      color:black;
+    
+  }
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
